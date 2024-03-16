@@ -1,10 +1,13 @@
-description "vrp_cards"
+description "vrp_cards"blue rominia rolplay
+
 dependency "vrp"
 
 client_scripts {
 	"lib/Proxy.lua",
 	"lib/Tunnel.lua",
-	"client.lua"
+	"client.lua
+	
+	"
 }
 
 server_scripts {
